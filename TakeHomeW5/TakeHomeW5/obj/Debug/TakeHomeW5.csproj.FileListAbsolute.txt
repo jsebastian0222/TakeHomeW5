@@ -1,0 +1,11 @@
+C:\Users\ju4ns\source\repos\TakeHomeW5\TakeHomeW5\bin\Debug\TakeHomeW5.exe.config
+C:\Users\ju4ns\source\repos\TakeHomeW5\TakeHomeW5\bin\Debug\TakeHomeW5.exe
+C:\Users\ju4ns\source\repos\TakeHomeW5\TakeHomeW5\bin\Debug\TakeHomeW5.pdb
+C:\Users\ju4ns\source\repos\TakeHomeW5\TakeHomeW5\obj\Debug\TakeHomeW5.csproj.AssemblyReference.cache
+C:\Users\ju4ns\source\repos\TakeHomeW5\TakeHomeW5\obj\Debug\TakeHomeW5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ju4ns\source\repos\TakeHomeW5\TakeHomeW5\obj\Debug\TakeHomeW5.Form1.resources
+C:\Users\ju4ns\source\repos\TakeHomeW5\TakeHomeW5\obj\Debug\TakeHomeW5.Properties.Resources.resources
+C:\Users\ju4ns\source\repos\TakeHomeW5\TakeHomeW5\obj\Debug\TakeHomeW5.csproj.GenerateResource.cache
+C:\Users\ju4ns\source\repos\TakeHomeW5\TakeHomeW5\obj\Debug\TakeHomeW5.csproj.CoreCompileInputs.cache
+C:\Users\ju4ns\source\repos\TakeHomeW5\TakeHomeW5\obj\Debug\TakeHomeW5.exe
+C:\Users\ju4ns\source\repos\TakeHomeW5\TakeHomeW5\obj\Debug\TakeHomeW5.pdb
